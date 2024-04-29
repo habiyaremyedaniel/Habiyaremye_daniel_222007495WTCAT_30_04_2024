@@ -40,8 +40,6 @@ Functionality
 4. Contact:
     Reach out to system administrators by using the contact details provided in the footer section.
 
- Additional Notes
-Ensure all image paths are correct and images are placed in the appropriate folder (./photo/).
-Validate the HTML and CSS to ensure proper rendering and functionality across different browsers.
+
 
 
